@@ -14,51 +14,40 @@ Final-year B.Tech Computer Science student (Minor in Data Science) with a strong
 
 ## Projects
 ---
+## 📊 Projects
 
-### HR Analytics – Employee Attrition Prediction
-**Objective:** Predict employee attrition to help HR teams reduce turnover.  
-**Tools:** Python, Pandas, Scikit-learn, Power BI  
+<a class="project-card" href="https://github.com/A-Chakraborty-3/HR-Analytics-Employee-Attrition-Prediction" target="_blank">
+<h3>HR Analytics – Employee Attrition Prediction</h3>
+<strong>Tools:</strong> Python, Pandas, Scikit-learn, Power BI  
+<p>
+Analyzed HR data to identify key attrition drivers and built predictive models to help organizations reduce employee turnover.
+</p>
+</a>
 
-- Conducted exploratory data analysis to identify key attrition drivers  
-- Built and evaluated classification models  
-- Delivered actionable insights for HR decision-making  
+<a class="project-card" href="https://github.com/A-Chakraborty-3/Spotify-Power-BI-dashboard-" target="_blank">
+<h3>Spotify Power BI Dashboard</h3>
+<strong>Tools:</strong> Power BI, Excel  
+<p>
+Designed an interactive dashboard to analyze music trends, artist performance, and track popularity using Spotify data.
+</p>
+</a>
 
-🔗 **GitHub:** https://github.com/A-Chakraborty-3/HR-Analytics-Employee-Attrition-Prediction
+<a class="project-card" href="https://github.com/A-Chakraborty-3/Colorado-Motor-Vehicle-Sales-Data-Analysis" target="_blank">
+<h3>Colorado Motor Vehicle Sales Data Analysis</h3>
+<strong>Tools:</strong> Python, Pandas, Matplotlib  
+<p>
+Performed exploratory analysis on vehicle sales data to uncover demand trends and generate forecasting insights.
+</p>
+</a>
 
----
+<a class="project-card" href="https://github.com/A-Chakraborty-3/Customer-Segmentation-using-KMeans-Clustering" target="_blank">
+<h3>Customer Segmentation using K-Means</h3>
+<strong>Tools:</strong> Python, Scikit-learn  
+<p>
+Segmented customers using clustering techniques to support targeted marketing and business strategies.
+</p>
+</a>
 
-### Spotify Power BI Dashboard
-**Objective:** Analyze Spotify music data to uncover trends in popularity and artist performance.  
-**Tools:** Power BI, Excel  
-
-- Designed an interactive Power BI dashboard  
-- Analyzed top tracks, artists, and audio features  
-
-🔗 **GitHub:** https://github.com/A-Chakraborty-3/Spotify-Power-BI-dashboard-
-
----
-
-### Colorado Motor Vehicle Sales Data Analysis
-**Objective:** Analyze vehicle sales patterns and forecast demand.  
-**Tools:** Python, Pandas, Matplotlib  
-
-- Performed EDA to identify regional and seasonal trends  
-- Provided data-driven insights for sales planning  
-
-🔗 **GitHub:** https://github.com/A-Chakraborty-3/Colorado-Motor-Vehicle-Sales-Data-Analysis
-
----
-
-### Customer Segmentation using K-Means Clustering
-**Objective:** Segment customers to support targeted marketing strategies.  
-**Tools:** Python, Scikit-learn  
-
-- Applied K-Means clustering on customer data  
-- Interpreted customer segments for business use  
-
-🔗 **GitHub:** https://github.com/A-Chakraborty-3/Customer-Segmentation-using-KMeans-Clustering
-
----
 
 ## Skills
 ---
