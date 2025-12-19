@@ -1,26 +1,24 @@
 ---
-title: Aniruddha Chakraborty | Data Analyst Fresher 
+title: Aniruddha Chakraborty | Data Analyst
 layout: default
 ---
 
-<img src="profile.jpg" width="160" style="border-radius:50%; margin-bottom:20px;" />
+<img src="profile.jpg" alt="Profile Photo" />
 
 # Aniruddha Chakraborty  
 **Data Analyst | Python | SQL | Power BI | Tableau**
 
-Final-year B.Tech Computer Science student (Minor in Data Science) with a strong foundation in data analysis, visualization, and exploratory analysis. Experienced in applying Python, SQL, and BI tools on real-world datasets to derive meaningful insights.
+Final-year B.Tech Computer Science student (Minor in Data Science) with practical experience in data analysis and visualization through academic and self-driven projects. Skilled in extracting insights from data using Python, SQL, and BI tools to support informed decision-making.
 
 ---
 
-## Projects
----
 ## 📊 Projects
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/HR-Analytics-Employee-Attrition-Prediction" target="_blank">
 <h3>HR Analytics – Employee Attrition Prediction</h3>
 <strong>Tools:</strong> Python, Pandas, Scikit-learn, Power BI  
 <p>
-Analyzed HR data to identify key attrition drivers and built predictive models to help organizations reduce employee turnover.
+Analyzed HR data to identify key attrition drivers and built predictive models to help organizations proactively reduce employee turnover.
 </p>
 </a>
 
@@ -28,7 +26,7 @@ Analyzed HR data to identify key attrition drivers and built predictive models t
 <h3>Spotify Power BI Dashboard</h3>
 <strong>Tools:</strong> Power BI, Excel  
 <p>
-Designed an interactive dashboard to analyze music trends, artist performance, and track popularity using Spotify data.
+Designed an interactive Power BI dashboard to analyze music trends, artist performance, and track popularity using Spotify data.
 </p>
 </a>
 
@@ -36,21 +34,21 @@ Designed an interactive dashboard to analyze music trends, artist performance, a
 <h3>Colorado Motor Vehicle Sales Data Analysis</h3>
 <strong>Tools:</strong> Python, Pandas, Matplotlib  
 <p>
-Performed exploratory analysis on vehicle sales data to uncover demand trends and generate forecasting insights.
+Performed exploratory data analysis on vehicle sales data to uncover regional trends and generate data-driven insights.
 </p>
 </a>
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/Customer-Segmentation-using-KMeans-Clustering" target="_blank">
-<h3>Customer Segmentation using K-Means</h3>
+<h3>Customer Segmentation using K-Means Clustering</h3>
 <strong>Tools:</strong> Python, Scikit-learn  
 <p>
-Segmented customers using clustering techniques to support targeted marketing and business strategies.
+Applied clustering techniques to segment customers and support targeted marketing and business strategies.
 </p>
 </a>
 
-
-## Skills
 ---
+
+## 🛠 Skills
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib)
 - **Databases:** SQL
@@ -60,16 +58,14 @@ Segmented customers using clustering techniques to support targeted marketing an
 
 ---
 
-## Resume
----
+## 📄 Resume
 
-📄 **View Resume:**  
+**View Resume:**  
 https://drive.google.com/file/d/1hp4S_ZlQS285LKyatdzGvzR4nPmCK8jm/view?usp=sharing
 
 ---
 
-## Contact
----
+## 📬 Contact
 
 - **Email:** aniruddha.chakraborty.ds@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/aniruddha-chakraborty-a40a32276  
