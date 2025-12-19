@@ -84,7 +84,6 @@ Segmented customers using clustering techniques to support personalized marketin
 </a>
 
 </div>
----
 
 ## 🛠 Skills Snapshot
 
