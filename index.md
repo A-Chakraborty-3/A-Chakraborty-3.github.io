@@ -23,23 +23,33 @@ Final-year B.Tech Computer Science student (Minor in Data Science) with practica
 
 ---
 
-## 📊 Projects | Power BI–Style Portfolio
+## 📊 Projects 
+
+<div class="projects-container">
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/HR-Analytics-Employee-Attrition-Prediction" target="_blank">
 <h3>HR Analytics – Employee Attrition Prediction</h3>
-<strong>Business Problem:</strong> High employee attrition impacts cost and productivity.  
-<br>
-<strong>Tools:</strong> Python, Pandas, Scikit-learn, Power BI  
+
+<p class="project-meta">
+<strong>Business Problem:</strong> High employee attrition increases cost and reduces productivity.
+</p>
+
+<p><strong>Tools:</strong> Python, Pandas, Scikit-learn, Power BI</p>
+
 <p>
-Performed exploratory data analysis to identify key attrition drivers and built predictive models to help HR teams proactively reduce employee turnover.
+Conducted exploratory data analysis to identify key attrition drivers and built predictive models to help HR teams proactively reduce employee turnover.
 </p>
 </a>
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/Spotify-Power-BI-dashboard-" target="_blank">
 <h3>Spotify Power BI Dashboard</h3>
-<strong>Business Problem:</strong> Understanding music trends and audience preferences.  
-<br>
-<strong>Tools:</strong> Power BI, Excel  
+
+<p class="project-meta">
+<strong>Business Problem:</strong> Understanding music trends and listener preferences.
+</p>
+
+<p><strong>Tools:</strong> Power BI, Excel</p>
+
 <p>
 Designed an interactive Power BI dashboard to analyze music trends, artist performance, and track popularity.
 </p>
@@ -47,24 +57,33 @@ Designed an interactive Power BI dashboard to analyze music trends, artist perfo
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/Colorado-Motor-Vehicle-Sales-Data-Analysis" target="_blank">
 <h3>Colorado Motor Vehicle Sales Data Analysis</h3>
-<strong>Business Problem:</strong> Identifying sales trends and forecasting demand.  
-<br>
-<strong>Tools:</strong> Python, Pandas, Matplotlib  
+
+<p class="project-meta">
+<strong>Business Problem:</strong> Identifying sales trends and forecasting demand.
+</p>
+
+<p><strong>Tools:</strong> Python, Pandas, Matplotlib</p>
+
 <p>
-Analyzed vehicle sales data to uncover regional and seasonal trends and generate data-driven insights.
+Analyzed vehicle sales data to uncover regional and seasonal trends and generate data-driven insights for planning.
 </p>
 </a>
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/Customer-Segmentation-using-KMeans-Clustering" target="_blank">
 <h3>Customer Segmentation using K-Means</h3>
-<strong>Business Problem:</strong> Improving targeted marketing strategies.  
-<br>
-<strong>Tools:</strong> Python, Scikit-learn  
+
+<p class="project-meta">
+<strong>Business Problem:</strong> Improving targeted marketing strategies.
+</p>
+
+<p><strong>Tools:</strong> Python, Scikit-learn</p>
+
 <p>
-Segmented customers using clustering techniques to support targeted marketing and business strategies.
+Segmented customers using clustering techniques to support personalized marketing and business strategies.
 </p>
 </a>
 
+</div>
 ---
 
 ## 🛠 Skills Snapshot
