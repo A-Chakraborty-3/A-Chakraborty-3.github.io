@@ -1,5 +1,5 @@
 ---
-title: Aniruddha Chakraborty | Data Analyst
+title: Aniruddha Chakraborty | Data Analyst Fresher 
 ---
 
 <img src="profile.jpg" width="160" style="border-radius:50%; margin-bottom:20px;" />
@@ -7,7 +7,7 @@ title: Aniruddha Chakraborty | Data Analyst
 # Aniruddha Chakraborty  
 **Data Analyst | Python | SQL | Power BI | Tableau**
 
-Final-year B.Tech Computer Science student (Minor in Data Science) with hands-on experience in data analysis, visualization, and business-oriented reporting. Focused on transforming raw data into actionable insights that support data-driven decision-making.
+Final-year B.Tech Computer Science student (Minor in Data Science) with a strong foundation in data analysis, visualization, and exploratory analysis. Experienced in applying Python, SQL, and BI tools on real-world datasets to derive meaningful insights.
 
 ---
 
