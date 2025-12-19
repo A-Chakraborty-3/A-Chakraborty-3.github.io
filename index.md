@@ -1,18 +1,29 @@
 ---
-title: Aniruddha Chakraborty | Data Analyst
+title: Aniruddha Chakraborty | Data Analyst Fresher
 layout: default
 ---
 
+<div class="hero">
+
 <img src="profile.jpg" alt="Profile Photo" />
 
-# Aniruddha Chakraborty  
-**Data Analyst | Python | SQL | Power BI | Tableau**
+<span class="role-badge">DATA ANALYST FRESHER</span>
 
-> Final-year B.Tech Computer Science student (Minor in Data Science) with practical experience in data analysis and visualization through academic and self-driven projects. Skilled in extracting insights from data using Python, SQL, and BI tools to support informed decision-making.
+<h1>Aniruddha Chakraborty</h1>
+
+<p class="headline">
+Python • SQL • Power BI • Tableau
+</p>
+
+<p class="summary">
+Final-year B.Tech Computer Science student (Minor in Data Science) with practical experience in data analysis and visualization through academic and self-driven projects. Skilled in extracting insights from data using Python, SQL, and BI tools.
+</p>
+
+</div>
 
 ---
 
-## 📊 Projects | Power BI–Style Analysis
+## 📊 Projects | Power BI–Style Portfolio
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/HR-Analytics-Employee-Attrition-Prediction" target="_blank">
 <h3>HR Analytics – Employee Attrition Prediction</h3>
@@ -20,7 +31,7 @@ layout: default
 <br>
 <strong>Tools:</strong> Python, Pandas, Scikit-learn, Power BI  
 <p>
-Performed EDA to identify attrition drivers and built predictive models to help HR teams proactively reduce employee turnover.
+Performed exploratory data analysis to identify key attrition drivers and built predictive models to help HR teams proactively reduce employee turnover.
 </p>
 </a>
 
@@ -40,17 +51,17 @@ Designed an interactive Power BI dashboard to analyze music trends, artist perfo
 <br>
 <strong>Tools:</strong> Python, Pandas, Matplotlib  
 <p>
-Analyzed vehicle sales data to uncover regional and seasonal trends and generate data-driven insights for planning.
+Analyzed vehicle sales data to uncover regional and seasonal trends and generate data-driven insights.
 </p>
 </a>
 
 <a class="project-card" href="https://github.com/A-Chakraborty-3/Customer-Segmentation-using-KMeans-Clustering" target="_blank">
-<h3>Customer Segmentation using K-Means Clustering</h3>
+<h3>Customer Segmentation using K-Means</h3>
 <strong>Business Problem:</strong> Improving targeted marketing strategies.  
 <br>
 <strong>Tools:</strong> Python, Scikit-learn  
 <p>
-Segmented customers using clustering techniques to support personalized marketing and business strategies.
+Segmented customers using clustering techniques to support targeted marketing and business strategies.
 </p>
 </a>
 
