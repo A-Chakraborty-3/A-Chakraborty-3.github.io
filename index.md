@@ -1,5 +1,6 @@
 ---
 title: Aniruddha Chakraborty | Data Analyst Fresher 
+layout: default
 ---
 
 <img src="profile.jpg" width="160" style="border-radius:50%; margin-bottom:20px;" />
